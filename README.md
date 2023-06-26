@@ -28,6 +28,7 @@ I’ve been learning to code for a year after switching careers. I started with 
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
 </div>
 
+----------------------
 ### 🛠 Инструменты:
 
 <div>
@@ -41,7 +42,7 @@ I’ve been learning to code for a year after switching careers. I started with 
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
 </div>
 
-
+----------------------
 ### 💻 Courses
 
 | Course                                                          | Dates             |
@@ -59,7 +60,7 @@ I’ve been learning to code for a year after switching careers. I started with 
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/katia-savenko-7b82bb83" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
-
+----------------------
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
