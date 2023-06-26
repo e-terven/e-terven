@@ -11,7 +11,8 @@ I’ve been learning to code for a year after switching careers. I started with 
 *   🤝  Open to collaborating on startups with backend and frontend development
 <b></b>
 ----------------------
-*   Skills 
+*   Skills
+----------------------
 <b></b>
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -28,6 +29,7 @@ I’ve been learning to code for a year after switching careers. I started with 
 </p>
 ----------------------
 *  Socials
+----------------------
 <b></b>
 <p align="left">                         
 <a href="https://discord.com/users/katia_shiro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>                         
