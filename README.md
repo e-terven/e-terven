@@ -10,6 +10,7 @@ I’ve been learning to code for a year after switching careers. I started with 
 *   ✉️  Contact me at [ekaterina.a.savenko@gmail.com](mailto:ekaterina.a.savenko@gmail.com)
 *   🤝  Open to collaborating on startups with backend and frontend development
 <b></b>
+----------------------
 *   Skills 
 <b></b>
 <p align="left">
