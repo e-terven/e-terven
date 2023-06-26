@@ -6,9 +6,9 @@ Java Backend Developer
 
 I’ve been learning to code for a year after switching careers. I started with Python, but have found a great opportunity to learn Java at a local company and got into backend development
 
-*   🌍  I'm based in Daejeon, South Korea
-*   ✉️  You can contact me at [ekaterina.a.savenko@gmail.com](mailto:ekaterina.a.savenko@gmail.com)
-*   🤝  I'm open to collaborating on startups with backend and frontend development
+*   🌍  Based in Daejeon, South Korea
+*   ✉️  Contact me at [ekaterina.a.savenko@gmail.com](mailto:ekaterina.a.savenko@gmail.com)
+*   🤝  Open to collaborating on startups with backend and frontend development
 
 *   ### Skills 
 <p align="left">
