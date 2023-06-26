@@ -41,6 +41,14 @@ I’ve been learning to code for a year after switching careers. I started with 
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
 </div>
 
+
+### 💻 Courses
+
+| Course                                                          | Dates             |
+| ----------------------------------------------------------------| :---------------: |
+| Habsida. JAVA (advanced)                                        | 11/2022 - 06/2023 |
+| Codeacademy. Python, JavaScript (basics)                        | 08/2022 - 11/2022 |
+
 ----------------------
 ### 🤝 Socials
 <p align="left">                         
@@ -50,15 +58,6 @@ I’ve been learning to code for a year after switching careers. I started with 
 <a href="http://www.instagram.com/terven.kr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>                       
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/katia-savenko-7b82bb83" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
-
----
-
-### 💻 Courses
-
-| Course                                                          | Dates             |
-| ----------------------------------------------------------------| :---------------: |
-| Habsida. JAVA (advanced)                                        | 11/2022 - 06/2023 |
-| Codeacademy. Python, JavaScript (basics)                        | 08/2022 - 11/2022 |
 
 
 ### 💻 Codewars:
