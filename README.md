@@ -8,7 +8,7 @@ I’ve been learning to code for a year after switching careers. I started with 
 
 *   🌍  Based in Daejeon, South Korea
 *   ✉️  Contact me at  [![Telegram Badge](https://img.shields.io/badge/-Katia-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Katia_Im)
-*   🤝  Open to collaborating on startups with backend and frontend development
+*   🤝  Open to participation in startups with backend and frontend development
 
 
 ----------------------
