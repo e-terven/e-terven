@@ -69,7 +69,7 @@ I’ve been learning to code for a year after switching careers. I started with 
 
 ----------------------
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub Stat:
 
 <table>
   <tr>
@@ -77,12 +77,11 @@ I’ve been learning to code for a year after switching careers. I started with 
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=e-terven&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=e-terven&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=e-terven&layout=compact&theme=vision-friendly-dark"/>
     </td>
   </tr>
 </table>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=e-terven)](https://github.com/e-terven/github-readme-stats)
 
 
 
