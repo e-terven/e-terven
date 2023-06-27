@@ -48,10 +48,10 @@ I’ve been learning to code for a year after switching careers. I started with 
 ----------------------
 ### 💻 Courses
 
-| Course                                                          | Dates             |
-| ----------------------------------------------------------------| :---------------: |
-| Habsida. JAVA (advanced)                                        | 11/2022 - 06/2023 |
-| Codeacademy. Python, JavaScript (basics)                        | 08/2022 - 11/2022 |
+| Course                                                          | Dates             | Achievement             |
+| ----------------------------------------------------------------| ----------------- | ------------------------|
+| Habsida. JAVA (advanced)                                        | 11/2022 - 06/2023 | CRUD app, RESTful API   |
+| Codeacademy. Python, JavaScript (basics)                        | 08/2022 - 11/2022 | Python/JS basic syntax  |
 
 ----------------------
 ### 🤝 Socials
