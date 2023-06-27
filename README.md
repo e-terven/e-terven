@@ -68,9 +68,6 @@ I’ve been learning to code for a year after switching careers. I started with 
 </p>
 
 ----------------------
-### 💻 Codewars:
-
-![codewars](https://www.codewars.com/users/e-terven/badges/large)
 
 ### ⚙️ GitHub статистика:
 
@@ -84,6 +81,8 @@ I’ve been learning to code for a year after switching careers. I started with 
     </td>
   </tr>
 </table>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-terven&layout=donut)](https://github.com/e-terven/github-readme-stats)
 
 
 
