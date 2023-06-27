@@ -7,7 +7,7 @@ Java Backend Developer
 I’ve been learning to code for a year after switching careers. I started with Python, but have found a great opportunity to learn Java at a local company and got into backend development
 
 *   🌍  Based in Daejeon, South Korea
-*   ✉️  Contact me at [![Telegram Badge](https://img.shields.io/badge/-Katia_lm-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/katia_lm)
+*   ✉️  Contact me at [![Telegram Badge](https://img.shields.io/badge/-Katia-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Katia_lm)
 *   🤝  Open to collaborating on startups with backend and frontend development
 
 ----------------------
