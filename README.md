@@ -82,8 +82,7 @@ I’ve been learning to code for a year after switching careers. I started with 
   </tr>
 </table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-terven&layout=donut)](https://github.com/e-terven/github-readme-stats)
-
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=e-terven)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
