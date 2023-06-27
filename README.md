@@ -70,7 +70,7 @@ I’ve been learning to code for a year after switching careers. I started with 
 ----------------------
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
+![codewars](https://www.codewars.com/users/e-terven/badges/large)
 
 ### ⚙️ GitHub статистика:
 
@@ -84,8 +84,6 @@ I’ve been learning to code for a year after switching careers. I started with 
     </td>
   </tr>
 </table>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=e-terven)
 
 
 
