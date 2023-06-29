@@ -49,7 +49,7 @@ I’ve been learning to code for a year after switching careers. I started with 
 </div>
 
 ----------------------
-### 🛠 Tools:
+### 🛠 UI:
 
 <div>  
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
