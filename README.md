@@ -10,7 +10,7 @@ I’ve been learning to code for a year after switching careers. I started with 
 *   ✉️  Contact me &nbsp; [![Telegram Badge](https://img.shields.io/badge/-Katia-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Katia_Im)
 *   🤝  Open to participation in startups with backend and frontend development
 
-Happy coding !
+                                                         Happy coding everyone!
 ----------------------
 ### 💻 CORE
 
