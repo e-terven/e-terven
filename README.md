@@ -68,7 +68,7 @@ I’ve been learning to code for a year after switching careers. I started with 
 | Codecademy. Pass the Technical Interview with Java | 07/2023 - 08/2023 | Linear Data(3), Nonlinear(3), Algorithmic | 128 hours   |
 |                                                    |                   | Concepts(1), Sorting Algorithms(1)        |             |
 | Habsida. JAVA                                      | 11/2022 - 06/2023 | Java Core(15), Java Project(3),           | 600 hours   |
-|                                                    |                   | Java Advance (3 modules)                  |             |
+                                                                           Java Advanced(3)                                         
 | Codeacademy. Python, JavaScript                    | 08/2022 - 11/2022 | Python/JS basic syntax                    |             |
 
 ----------------------
