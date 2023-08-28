@@ -62,14 +62,14 @@ I’ve been learning to code for a year after switching careers. I started with 
 ----------------------
 ### 💻 Courses
 
-| Course                                               | Dates             | Achievement                                        |
-| -----------------------------------------------------|------------------ | ---------------------------------------------------|
-| SimpleLearn. Java Servlet Basics and JSP             | 08/2023 - now     | Java Servlet(2), JSP(1) - 7 hours total            |
-| Codecademy. Pass the Technical Interview with Java   | 07/2023 - 08/2023 | Linear Data(3),Nonlinear(3), Sorting Algorithms(1),| 
-|                                                      |                   | Algorithmic Concepts(1) - 128hours total           |
-| Habsida. JAVA                                        | 11/2022 - 06/2023 | Java Core(15 modules), Java Project(3 modules),    | 
-|                                                      |                   | Java Advance (3 modules) - 600 hours total         |
-| Codeacademy. Python, JavaScript                      | 08/2022 - 11/2022 | Python/JS basic syntax                             |
+| Course                                             | Dates             | Achievement                               | Duration    |  
+| ---------------------------------------------------|------------------ | ------------------------------------------|-------------|
+| SimpleLearn. Java Servlet Basics and JSP           | 08/2023 - now     | Java Servlet(2 modules), JSP(1 module)    | 7 hours     |
+| Codecademy. Pass the Technical Interview with Java | 07/2023 - 08/2023 | Linear Data(3), Nonlinear(3), Algorithmic | 128 hours   |
+|                                                    |                   | Concepts(1), Sorting Algorithms(1)        |             |
+| Habsida. JAVA                                      | 11/2022 - 06/2023 | Java Core(15), Java Project(3),           | 600 hours   |
+|                                                    |                   | Java Advance (3 modules)                  |             |
+| Codeacademy. Python, JavaScript                    | 08/2022 - 11/2022 | Python/JS basic syntax                    |             |
 
 ----------------------
 ### 🤝 Socials
