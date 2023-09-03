@@ -66,7 +66,7 @@ I’ve been learning to code for a year after switching careers. I started with 
 | -------------------------------------------------|------------------ | ------------------------------------------------|-------------|
 | SimpleLearn. Java Servlet Basics and JSP         | 08/2023 - now     | Java Servlet(2 modules), JSP(1 module)          | 7 hours     |
 | Codecademy. Technical Interview with Java        | 07/2023 - 08/2023 | Linear Data(3), Nonlinear(3), Sorting(2)        | 128 hours   |
-| Habsida. JAVA                                    | 11/2022 - 06/2023 | Java Core(15), PreProject(3), Java Advanced(3)  | 700 hours   |
+| Habsida. JAVA. Web Developer Bootcamp            | 11/2022 - 06/2023 | Java Core(15), PreProject(3), Java Advanced(3)  | 700 hours   |
 | Codeacademy. Python, JavaScript                  | 08/2022 - 11/2022 | Python/JS basic syntax                          | 45 hours    |
 
 ----------------------
